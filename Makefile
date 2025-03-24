@@ -2,7 +2,7 @@ include .env
 export $(shell sed 's/=.*//' .env)
 
 dev:
-	@echo "--> Variables"
+	@echo "--> Some Variables"
 	@echo $(MAIN_FILENAME)
 	@echo $(BINARY_NAME)
 	@echo "-->Run dev mode"

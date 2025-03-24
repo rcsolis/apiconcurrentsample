@@ -8,6 +8,10 @@
 
 ## Description
 
-This application sends multiple concurrent requests to an API.
+This application sends multiple concurrent requests to an API for get the weather temperature from the [OpenWeatherMap API](https://openweathermap.org/)
+
+## Stack
+
+Golang 1.23.4
 
 
